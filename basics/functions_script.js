@@ -27,5 +27,5 @@ console.log(multiply(2,5));
 // function within function
 // alert(multiply(3,8))
 
-console.log("End of functions tutorials")
+console.log("End of functions tutorial")
 console.log(" ")

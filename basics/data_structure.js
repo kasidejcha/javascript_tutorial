@@ -15,7 +15,7 @@ var function_list = [
     undefined,
     "mixed list apples"
 ]
-console.log("End of Arrays tutorials")
+console.log("End of Arrays tutorial")
 console.log("")
 
 
@@ -35,3 +35,21 @@ console.log(user.favouriteFood);
 
 user.isMarried = true;
 console.log(user.isMarried);
+
+var user = {
+    name:"john",
+    age:"34",
+    hobby:"soccer",
+    isMarried:false,
+    spells:["boo", "shazam"],
+    shout: function shouting (){
+        console.log("AHHH")
+    }
+};
+
+var emptyobj = {};
+console.log(emptyobj)
+var nullobj = null;
+console.log(nullobj)
+console.log("End of Objects tutorial")
+console.log("")
